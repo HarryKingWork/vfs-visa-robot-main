@@ -1,4 +1,4 @@
-# vfs-visa-robot
+# vfs-visa-robot # new collaborator with Nicholas
 
 - run `yarn` to install dependencies
 - update email credentials and service provider in [mailer.js](./mailer.js)
