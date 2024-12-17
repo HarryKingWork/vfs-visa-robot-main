@@ -1,4 +1,4 @@
-# vfs-visa-robot # new collaborator with Nicholas
+# vfs-visa-robot # new collaborator with Nicholas Harper
 
 - run `yarn` to install dependencies
 - update email credentials and service provider in [mailer.js](./mailer.js)
@@ -8,3 +8,6 @@
 - visit https://visa.vfsglobal.com/
  
 Note: You may need to update the URLs in [index.js](./web-scripts/index.js) to align with your requirements.
+
+Co-authored-by: NicholasHarper0813 
+<nicholasharper000@gmail.com>
