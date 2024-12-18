@@ -1,8 +1,6 @@
 const express = require('express');
 const cors = require('cors');
-
 const {sendMail} = require('./mailer');
-
 const app = express();
 const port = 3003;
 
