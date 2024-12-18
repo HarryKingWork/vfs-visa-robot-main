@@ -1,7 +1,6 @@
 const nodemailer = require('nodemailer');
 const smtpTransport = require('nodemailer-smtp-transport');
 const transporter = nodemailer.createTransport(smtpTransport({
-  // find your service at https://nodemailer.com/smtp/well-known/
   service: '<service>',
   auth: {
     user: '<sender_email_address>',
